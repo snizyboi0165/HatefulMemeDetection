@@ -24,3 +24,8 @@ __pycache__/
 .env
 venv/
 env/
+
+# Documents & Reports (Excluded for professional portfolio)
+*.docx
+*.pptx
+*.pdf
