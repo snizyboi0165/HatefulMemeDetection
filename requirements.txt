@@ -1,0 +1,17 @@
+# Deep Learning & Vision
+torch>=2.0.0
+torchvision
+transformers>=4.38.0
+peft
+bitsandbytes
+
+# Data Processing & Visualization
+numpy
+pandas
+matplotlib
+Pillow
+
+# Metrics & Utils
+scikit-learn
+tqdm
+jupyter

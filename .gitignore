@@ -1,0 +1,26 @@
+# Datasets and Images
+Facebook Hateful Meme/
+Merged Hateful Meme/
+data/
+images/
+meme1/
+memotion_dataset_7k/
+merge_dataset/
+*.rar
+*.zip
+
+# Model Weights
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+env/

@@ -1,0 +1,7 @@
+Model,Type,FB_AUROC,Merged_AUROC,Delta,Delta_pct
+BLIP-base ITM,Frozen,0.5286,0.5114,-0.0172,-1.72
+CLIP ViT-L/14,Frozen,0.5859,0.6021,+0.0162,+1.62
+SigLIP SO400M,Frozen,0.6088,0.6160,+0.0072,+0.72
+Qwen2-VL-2B,Frozen,0.7178,0.6965,-0.0213,-2.13
+v6 MultiScale+ASL (dev, TTA),Fine-tuned,0.8539,0.7840,-0.0699,-6.99
+v6 MultiScale+ASL (test, TTA),Fine-tuned,0.7646,0.7490,-0.0156,-1.56
